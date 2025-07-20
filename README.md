@@ -16,6 +16,12 @@
 * 🔍 **의미 유사도 기반 연관 항목 추천**: 임베딩 + FAISS 검색
 * 🧠 **GPT 문제 자동 생성**: 선택한 항목을 바탕으로 GPT-4o가 문제 출제
 
+  
+
+https://github.com/user-attachments/assets/938e22a1-f118-4747-aa74-d2ed08f4b620
+
+
+
 ---
 
 ### 📁 프로젝트 구조
