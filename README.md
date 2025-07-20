@@ -36,8 +36,9 @@ ads_exam_generator/
 
 #### 1. 설치
 
+zip파일을 다운 받은 후 압축을 풀고 해당 폴더에서 
+
 ```bash
-git clone <your-repo-url>
 cd ads_exam_generator
 pip install -r requirements.txt
 ```
