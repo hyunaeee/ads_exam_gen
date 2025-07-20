@@ -1,7 +1,8 @@
 
-## 📘 ADsP 연관 문제 생성기
+## 📘 ADsP 연관 문제 생성기 (약식)
 
 이 프로젝트는 ADsP 시험을 준비하는 수험생을 위해, 기존 개념에 기반한 **유사 항목 추천** 및 **GPT를 활용한 새로운 문제 자동 생성** 기능을 제공합니다.
+자격증 앱 개발 이전 임베딩 시각화 테스트를 위해 제작되었습니다.
 
 ![streamlit preview](https://img.shields.io/badge/Streamlit-Enabled-brightgreen)
 ![OpenAI GPT](https://img.shields.io/badge/OpenAI-GPT4o-blue)
